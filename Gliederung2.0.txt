@@ -1,4 +1,4 @@
-Referatsthema:
+﻿Referatsthema:
 Medienwandel im 21. Jahrhundert eine Bestandsaufnahme 
 Die Veränderung der Mediennutzung 
 
@@ -6,7 +6,7 @@ Die Veränderung der Mediennutzung
 
 - Mediennutzung heutzutage (Sean)
 
-Pro Beispiel:
+Pro Beispiel: (Jasmin)
   - Mögliche Gründe für und Vorteile durch das neue Medium
   - Schwierigkeiten/Probleme durch das neue Medium
 
@@ -17,12 +17,17 @@ Pro Beispiel:
     
 Beispiele:
 
-Zeitung, Fernsehen, Radio --> Internet
-Telefon, SMS, Brief --> Whatsapp, Facebook, etc.
-Buch --> E-Book Reader, Goodle, Wikipedia, etc.
-Stift und Papier --> Tablet,Laptop (Beim Lernen, Zeichnen)
-CDs, DVDs --> on demand Streaming (Youtube,Netflix, Spotify,...)
-Katalog Bestellungen --> Online Shopping
+Zeitung, Fernsehen, Radio --> Internet  ---> Negative Folgen Aussterben von Zeitungen und Printmedien
+
+Telefon, SMS, Brief --> Whatsapp, Facebook, etc.  ---> (Halte ich nicht für sinnvoll)
+
+Buch --> E-Book Reader, Goodle, Wikipedia, etc.  --> gedruckte Bücher zurzeit noch beliebter
+
+Stift und Papier --> Tablet,Laptop (Beim Lernen, Zeichnen) ---> (Halte ich nicht für sinnvoll)
+
+CDs, DVDs --> on demand Streaming (Youtube,Netflix, Spotify,...)  ---> Negative Folgen Aussterben von Videotheken
+
+Katalog Bestellungen --> Online Shopping (brauchen noch infos)
 
     
-
+Kommentar (Sean) ich würde mich auf nur 2- 3 Beispiele konzentrieren, diese aber bis ins kleinste Detail ausarbeiten
